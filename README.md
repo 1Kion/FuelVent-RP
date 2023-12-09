@@ -2,7 +2,7 @@
 This adds a vapor vent mod using the RealPlume and SmokeScreen mod for visual effects.
 NOTE: This is my first collaboration with another KSP mod developer, so a big thanks to Katniss for making this thing possible!
 
-Realism Overhaul is currently not supported
+Realism Overhaul is currently not supported.
 feedback is appreciated. RO patch is coming soon!
 
 Credit to Katniss for the original configs and for the help to bring this into stock KSP!
